@@ -19,7 +19,7 @@
 Katabump.com is a free hosting platform for WhatsApp bots.
 Steps:
 
-1. Create an account on katabump.com and log in.
+1. Create an account on https://katabump.com and log in.
 2. Create a new Application:
    · Give it a name (e.g., king-bless-bot)
    · Choose Node.js as the runtime.
